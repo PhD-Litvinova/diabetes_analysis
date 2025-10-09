@@ -15,9 +15,9 @@
 ---
 
 ## 📂 Зміст репозиторію
-- **`diabetes_analysis.ipynb`** — Jupyter Notebook з повною обробкою даних, візуалізаціями та аналізом  
+- **`diabetes_analysis.ipynb`** — Jupyter Notebook з повною обробкою даних, візуалізаціями та аналізом  https://github.com/PhD-Litvinova/diabetes_analysis/blob/main/diabetes_analysis.ipynb
 - **`diabetes_report.pdf`** — фінальний PDF-звіт з висновками, графіками та рекомендаціями  https://github.com/PhD-Litvinova/diabetes_analysis/blob/main/diabetes_analysis.ipynb
-- **`Tableau_dashboard.twbx`** — інтерактивні дашборди з Tableau з фільтрами за віком, статтю, типом діабету тощо  
+- **`Tableau_dashboard.twbx`** — інтерактивні дашборди з Tableau з фільтрами за віком, статтю, типом діабету тощо  https://public.tableau.com/shared/2RDJ2G952?:display_count=n&:origin=viz_share_link
 
 ---
 
