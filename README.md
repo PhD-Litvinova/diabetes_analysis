@@ -77,7 +77,7 @@ The dataset covers:
 
 ## 🔗 Project Links
 - 📄 [Full PDF Report](https://github.com/PhD-Litvinova/diabetes_analysis/blob/main/diabetes_report.pdf)  
-- 📊 [Interactive Tableau Dashboard](https://public.tableau.com/shared/2RDJ2G952?:display_count=n&:origin=viz_share_link)  
+- 📊 [Interactive Tableau Dashboard](https://public.tableau.com/app/profile/iryna.pryshchepa/viz/Tableau_dashboard_17610608143830/sheet14?publish=yes)  
 - 💻 [Jupyter Notebook](https://github.com/PhD-Litvinova/diabetes_analysis/blob/main/diabetes_analysis.ipynb)  
 
 ---
@@ -117,8 +117,8 @@ The dataset covers:
 
 ## 📂 Зміст репозиторію
 - **`diabetes_analysis.ipynb`** — Jupyter Notebook з повною обробкою даних, візуалізаціями та аналізом  https://github.com/PhD-Litvinova/diabetes_analysis/blob/main/diabetes_analysis.ipynb
-- **`diabetes_report.pdf`** — фінальний PDF-звіт з висновками, графіками та рекомендаціями  https://github.com/PhD-Litvinova/diabetes_analysis/blob/main/diabetes_analysis.ipynb
-- **`Tableau_dashboard.twbx`** — інтерактивні дашборди з Tableau з фільтрами за віком, статтю, типом діабету тощо  https://public.tableau.com/shared/2RDJ2G952?:display_count=n&:origin=viz_share_link
+- **`diabetes_report.pdf`** — фінальний PDF-звіт з висновками, графіками та рекомендаціями  (https://github.com/PhD-Litvinova/diabetes_analysis/blob/main/diabetes_analysis.ipynb)
+- **`Tableau_dashboard.twbx`** — інтерактивні дашборди з Tableau з фільтрами за віком, статтю, типом діабету тощо  (https://public.tableau.com/app/profile/iryna.pryshchepa/viz/Tableau_dashboard_17610608143830/sheet14?publish=yes)
 
 ---
 
