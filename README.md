@@ -95,7 +95,7 @@ The dataset covers:
 > Shows ability to link clinical data to actionable recommendations and communicate findings effectively.  
 
 **Author:** Iryna Litvinova  
-📍 Ukraine | 🌐 [LinkedIn](https://www.linkedin.com/in/irynalitvinova/) | 🧰 Tools: Python, Tableau, Excel, SQL
+📍 Ukraine | 🌐 [LinkedIn](https://www.linkedin.com/in/irynalitvinova/) | 🧰 Tools: Python, Tableau, Jupyter Notebook, SQL
 
 
 
